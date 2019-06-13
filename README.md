@@ -4,6 +4,7 @@
 
 
 # Simple quant search
+![alt text](https://raw.githubusercontent.com/maxkharena/-quntum-lab/search.png)
 
 
 # Quant grov search
