@@ -1,5 +1,4 @@
 # install: npm i 
-
 # run: npm run-script example lab/someFile.js
 
 
