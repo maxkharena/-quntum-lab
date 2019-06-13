@@ -1,5 +1,5 @@
-# install: npm i 
-# run: npm run-script example lab/someFile.js
+install: npm i 
+run: npm run-script example lab/someFile.js
 
 
 # Simple quant search
