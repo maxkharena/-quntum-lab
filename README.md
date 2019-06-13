@@ -1,12 +1,10 @@
-# quntum-lab
-quantum-lab
-
 # install: npm i 
 
-# run npm run-script example lab/someFile.js
+# run: npm run-script example lab/someFile.js
 
 
 # Simple quant search
+
 
 # Quant grov search
 
